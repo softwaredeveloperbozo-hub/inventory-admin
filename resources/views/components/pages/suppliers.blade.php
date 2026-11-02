@@ -25,7 +25,7 @@
         <h2 id="supplier-title">Novo fornecedor</h2>
 
         <div class="grid">
-            <label class="span2">Nome
+            <label class="span2">Nome do Fornecedor
                 <input id="s-name" required maxlength="150">
             </label>
             <label>NIF
