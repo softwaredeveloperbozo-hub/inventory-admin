@@ -27,7 +27,7 @@ produtos, compras, vendas e fornecedores num único painel administrativo.
 
 ## Instalação
 
-    git clone https://github.com/SEU_USUARIO/inventory-admin.git
+    git clone https://github.com/softwaredeveloperbozo-hub/inventory-admin.git
     cd inventory-admin
     composer setup
     php artisan jwt:secret
